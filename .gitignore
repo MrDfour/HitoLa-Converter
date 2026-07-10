@@ -1,0 +1,29 @@
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scraping & Debugging Scratch files
+common.js
+gg.js
+reader.js
+gallery_info.js
+gallery_info.json
+test.webp
+test_backend.py
+
+# Compiled Output Files (Generated PDFs and Comic Books)
+*.pdf
+*.cbz
+temp_*/
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# PyInstaller build files
+build/
+dist/
+*.spec
